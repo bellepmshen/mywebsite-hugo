@@ -7,7 +7,7 @@ work: [Predictive Maintenance, Classification]
 techs: [Random Forest, Gradient Boosting Tree, Logistic Regression, XGBoost, Sklearn]
 # designs: [Photoshop]
 thumbnail: loan-credit/truck_2.jpeg
-projectUrl: https://belle-ml-space.herokuapp.com/
+projectUrl: coming soon #https://belle-ml-space.herokuapp.com/
 # testimonial:
 #   name: John Doe
 #   role: CEO @Example
