@@ -21,16 +21,16 @@ Thus, these experiences draw me to data science, so that's why I joined a data s
 
 **Experience**
 
-<font size = -1>Data Science TA, LearningFuze, 2022-Current</font>\
-<font size = -1>Project Manager, Pou Chen Group, 2017-2019</font>\
-<font size = -1>Product Engineer, ASE Group, 2014-2017</font>
+<font size = -1>LearningFuze, Irvine, CA,2022-Current</font>\
+<font size = -1>Pou Chen Group, Taiwan, 2017-2019</font>\
+<font size = -1>ASE Group, Taiwan, 2014-2017</font>
 
 **Education**
 
 
-<font size = -1>Master of Science (M.S.) in Astronomy/Astrophysics, National Central University, 2012-2014</font>\
-<font size = -1>Bachelor of Science (B.S.) in Physics, Tamkang University, 2007-2011</font>\
-<font size = -1>Advanced Data Science Full Immersive Program, LearningFuze, 2021</font>
+<font size = -1>Master of Science (M.S.) in Astronomy/Astrophysics, National Central University, , Taiwan, 2012-2014</font>\
+<font size = -1>Bachelor of Science (B.S.) in Physics, Tamkang University, Taiwan, 2007-2011</font>\
+<font size = -1>Advanced Data Science Full Immersive Program, LearningFuze, Irvine, CA, 2021</font>
 
 **Certification**
 
