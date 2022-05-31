@@ -3,5 +3,4 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
-You'll add here a general introduction of your portfolio page.
-12345
+Here are the Data Science/Machine Learning portfolios I have done so far. 

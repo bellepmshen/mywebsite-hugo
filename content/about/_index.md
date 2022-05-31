@@ -7,9 +7,9 @@ images: ["/images/sample.jpg"]
 
 **Hi, I'm Belle!**
 
-I'm currently a data science bootcamp TA in southern California! I helped my students with their Python codes and building machine learning models, etc.
+I'm currently living in southern California!
 
-I used to work as a project manager in manufacturing sector. Part of my responsibility was to analyze large amount of manufacuring data in order to find the failure modes to improve yields. I used DoE (Design of Experiment), 8D (Eight Disciplines of Problem Solving) and FMEA (Failure Mode & Effects Analysis) to improve manufacturing problems to let my clients projects move forward to production phase.
+I used to work in manufacturing sector. Part of my responsibility was to analyze large amount of manufacuring data in order to find the failure modes to improve yields. I used DoE (Design of Experiment), 8D (Eight Disciplines of Problem Solving) and FMEA (Failure Mode & Effects Analysis) to improve manufacturing problems to let my clients projects move forward to production phase.
 
 In my graduate school experiences, I wrote IDL codes to analyze stellar spectroscopy to investigate stellar evolutionary model by using Fourier Transform & Gaussian fitting.
 
