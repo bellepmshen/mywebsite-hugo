@@ -28,7 +28,7 @@ Thus, these experiences draw me to data science, so that's why I joined a data s
 **Education**
 
 
-<font size = -1>Master of Science (M.S.) in Astronomy/Astrophysics, National Central University, , Taiwan, 2012-2014</font>\
+<font size = -1>Master of Science (M.S.) in Astronomy/Astrophysics, National Central University, Taiwan, 2012-2014</font>\
 <font size = -1>Bachelor of Science (B.S.) in Physics, Tamkang University, Taiwan, 2007-2011</font>\
 <font size = -1>Advanced Data Science Full Immersive Program, LearningFuze, Irvine, CA, 2021</font>
 
