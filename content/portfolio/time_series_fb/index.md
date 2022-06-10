@@ -44,6 +44,6 @@ p.s.: Because of it was like a regression problem, so RMSE would be a better met
 From the hyperparameters tuning results, the best permutation of P, D, Q was obtained, so we would use this order to train the whole dataset to get the final ARIMA model to forecast the next day stock price.<br>
 Then, we got the RMSE = $0.88 of the stock price on Aug. 31.<br>
 
+For the detail codes and graphs, please check the GitHub link above :point_up_2:<br>
 
-
-<font size = "-2"><i>photo credit: https://www.financialexpress.com/investing-abroad/featured-stories/us-stock-futures-fall-as-big-week-of-earnings-reports-kicks-off/2495305/</i></font>
+<font size = "-3"><i>photo credit: https://www.financialexpress.com/investing-abroad/featured-stories/us-stock-futures-fall-as-big-week-of-earnings-reports-kicks-off/2495305/</i></font>
