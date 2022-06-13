@@ -1,5 +1,5 @@
 ---
-title: Facebook Stock Price Forecasting
+title: Facebook/Meta Stock Price Forecasting
 description: This is the description of our sample project
 date: "2022-06-10T19:47:09+02:00"
 jobDate: 2022
@@ -45,5 +45,7 @@ From the hyperparameters tuning results, the best permutation of P, D, Q was obt
 Then, we got the RMSE = $0.88 of the stock price on Aug. 31.<br>
 
 For the detail codes and graphs, please check the GitHub link above :point_up_2:<br>
+
+Want to get the next minute forecast? download my notebook <font color = "334AFF"><a href = "https://github.com/bellepmshen/time_series_FB_stock/blob/main/forecast.ipynb"><u>here</u></a></font> and run it by yourself!
 
 <font size = "-3"><i>photo credit: https://www.financialexpress.com/investing-abroad/featured-stories/us-stock-futures-fall-as-big-week-of-earnings-reports-kicks-off/2495305/</i></font>
