@@ -36,7 +36,7 @@ pygmentsCodeFences=true
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  # post = "article"
+  post = "article"
   portfolio = "project"
 
 [params.sidebar]
@@ -80,12 +80,12 @@ pygmentsCodeFences=true
   url = "/portfolio/"
   weight = -110
 
-# [[menu.main]]
-#  identifier = "blog"
-#  name = "Post"
-#  title = "Blog section"
-#  url = "/post/"
-#  weight = -100
+[[menu.main]]
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
 
 [sitemap]
   changefreq = "monthly"
