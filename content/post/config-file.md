@@ -1,17 +1,17 @@
----
+<!-- ---
 title: "Config File"
 description: Some basics on the configuration of the theme
 date: 2019-04-20T16:18:12+01:00
 publishDate: 2019-04-20T19:12:12+01:00
----
+--- -->
 
-Here is the basic config file used for personal-web.
+<!-- Here is the basic config file used for personal-web.
 
-You can use it as a base for your website.
+You can use it as a base for your website. -->
 
 <!--more-->
 
-```TOML
+<!-- ```TOML
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Edna West"
@@ -21,9 +21,9 @@ googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
-pygmentsCodeFences=true
+pygmentsCodeFences=true -->
 
-[params.intro]
+<!-- [params.intro]
   main = "Hi, I'm Edna :wave:"
   sub = "I'm a Web Developer and Entrepreneur"
 
@@ -116,9 +116,9 @@ pygmentsCodeFences=true
     enableDNT = true
     simple = false
 
-```
+``` -->
 
-## Sidebar
+<!-- ## Sidebar
 
 The sidebar header is defined within the `params.intro` section. The `main` being the top header and `sub` the subheader
 
@@ -134,9 +134,9 @@ You can also customize the params with the  `params.sidebar` parameters. The `co
   backgroundImage = ''
   gradientOverlay = ''
   logo = ''
-```
+``` -->
 
-## 404
+<!-- ## 404
 
 The 404 page is defined within the `params.notFound` section.
 The `gopher`, `h1` and `p` params define the image and texts displayed on the page. 
@@ -161,18 +161,18 @@ You can also define how the post and portfolio sections will be named on the 404
 [params.sections]
   post = "article"
   portfolio = "project"
-```
+``` -->
 
-## Customization
+<!-- ## Customization
 
 You can define a custom CSS file in the `customCSS` param and a favicon.
 ```TOML
 [params.assets]
   favicon = ""
   customCSS = ""
-```
+``` -->
 
-## Social
+<!-- ## Social
 
 You can define your social media usernames in the `params.social` and the `params.contact` paramaters. 
 
@@ -202,4 +202,4 @@ You can define the name of the latest publication header on the home page with t
 ```TOML
 [params.main]
   latestPublishHeader = "My Latest Project"
-```
+``` -->
