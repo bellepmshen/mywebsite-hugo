@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Portfolio Definition
 description: How to define your portfolio in FrontMatter
 date: "2019-05-02T19:49:05+02:00"
@@ -7,11 +7,11 @@ publishDate: "2019-05-02T19:49:05+02:00"
 
 Here are some details about the portfolio settings.
 
-{{< figure src="/post/images/portfolio-example.png" caption="Example of Portfolio page" >}}
+{{< figure src="/post/images/portfolio-example.png" caption="Example of Portfolio page" >}} -->
 
 <!--more-->
 
-```YAML
+<!-- ```YAML
 ---
 title: 
 description: 
@@ -38,4 +38,4 @@ Here are some explanations about the portfolio FrontMatter:
 - `projectUrl` is the URL to the project.
 - The `testimonial` params define the person giving your a testimonial as well as the text of the testimonial.
 
-NB: if `techs`, `designs` or `projectUrl` is not defined, it will not be displayed at all.
+NB: if `techs`, `designs` or `projectUrl` is not defined, it will not be displayed at all. -->
