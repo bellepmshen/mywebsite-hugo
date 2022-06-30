@@ -8,6 +8,7 @@ publishDate: "2022-06-30T09:37:55+02:00"
 Here is the content in this article:
 
 ### Content:<br>
+
 - What is ARIMA?<br>
 - Stock Market Forecast Codes in Python<br>
 
@@ -21,7 +22,7 @@ I. AR (Autoregression): <br>
 	- It is a linear combination of lagged dependent variables i.e., observations
 	- Parameter Notation: <font><i>"p"</i></font>, the number of lag orders
 	- Formula:
-    	$$
+    	$
 		\begin {align}
 		Y_t\;
 		&=\;
@@ -33,7 +34,7 @@ I. AR (Autoregression): <br>
 		&= \beta\;+\;
 		\sum_{i=1}^{p} \alpha_{i}Y_{t-i}\;
 		\end {align}
-	    $$
+	    $
     
 
 
