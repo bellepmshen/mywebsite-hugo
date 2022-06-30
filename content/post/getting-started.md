@@ -7,25 +7,33 @@ publishDate: "2022-06-30T09:37:55+02:00"
 
 Here is the content in this article:
 
-### Content:
-- What is ARIMA?
-- Stock Market Forecast Codes in Python
+### Content:<br>
+- What is ARIMA?<br>
+- Stock Market Forecast Codes in Python<br>
+
+### What is ARIMA?<br>
+
+ARIMA stands for <font><i>"Autoregressive Integrated Moving Average"</i></font> and it is an algorithm for forecasting time-series data, such as predicting stock market price, or forecasting daily temperature.<br>
+
+ARIMA is composed of three parts:<br>
+
+I. AR (Autoregression): <br>
+	- It is a linear combination of lagged dependent variables i.e., observations
+	- Parameter Notation: <font><i>"p"</i></font>, the number of lag orders
+	- Formula:
+    	$$
+		\begin {align}
+		Y_t\;
+		&=\;
+		\beta\;+\;
+		\alpha_1 Y_{t-1}\;+\;
+		\alpha_2 Y_{t-2}\;+\;
+		...+\;
+		\alpha_p Y_{t-p}\;\\\\
+		&= \beta\;+\;
+		\sum_{i=1}^{p} \alpha_{i}Y_{t-i}\;
+		\end {align}
+	    $$
+    
 
 
-Here are some details to help you getting started with this theme.
-
-<!--more-->
-
-We'll assume here that you have a good understanding of Hugo and its structure. If you have any doubt, check the [Hugo documentation](https://gohugo.io/documentation/ "Hugo documentation"); it is pretty good and the community quite active! Thank you so much by the way! :muscle:
-
-The first thing to do when starting your own website is to **copy the content of exampleSite** in your own root folder. This way, you can have a sample of `config.toml` file and a first structure.
-
-**Don't forget to change the `baseURL` param to avoid deployment failures**
-
-Browse the articles in the `content/post` folder to get any help during setup or using the theme. Please, [contact me](https://baptistej.com "contact me") if you have any problem using the them.
-
-Then **configure the `config.toml` file** to match your need.
-
-You should then write you home (`/content/_index.md`), create your first project (see the [portfolio definition](/content/post/portfolio-definition.md "portfolio definition") and your first blogpost.
-
-Lastly, define the menu in the sidebar: you can get some help in the `/content/post/manage-your-menu.md` file.
