@@ -1,9 +1,16 @@
 ---
-title: Getting started
+title: Build a Time-Series ARIMA Model for Stock Market Forecast in Python
 description: Getting started with personal-web
-date: "2019-05-03T09:37:55+02:00"
-publishDate: "2019-05-03T09:37:55+02:00"
+date: "2022-06-30T09:37:55+02:00"
+publishDate: "2022-06-30T09:37:55+02:00"
 ---
+
+Here is the content in this article:
+
+### Content:
+- What is ARIMA?
+- Stock Market Forecast Codes in Python
+
 
 Here are some details to help you getting started with this theme.
 
