@@ -120,7 +120,7 @@ How to train a time-series model?<br>
 When building a time-series model, we get a forecast for the next timestamp based on the data from the previous timestamps which means, your train data size will gradually increase for each iterations (see the detail codes in the GitHub link below) cause we want to forecast the "next timestamp." <br>
 
 For example, your last timestamp of train data is "2022-06-27 15:56:00", and you build a model from the train data, so you get a forecast for "2022-06-27 15:57:00."  What if we want to see the forecast of "2022-06-27 15:58:00"?
-Then, you will add the acutal observation of "2022-06-27 15:57:00" to train data, and this timestamp will be your last observation in the train data.  You'll build a model from this "new" train data, and get a forecast for the next minute which is "2022-06-27 15:58:00."<br>
+Then, you will add the actual observation of "2022-06-27 15:57:00" to train data, and this timestamp will be your last observation in the train data.  You'll build a model from this "new" train data, and get a forecast for the next minute which is "2022-06-27 15:58:00."<br>
 
 Here we use the "forecast()" function from ARIMA to get "out-of-sample" forecast.<br>
 
@@ -152,7 +152,8 @@ Returns
 
 str
 
-a message to show the next minute open price
+a message to show the next minute open price & the total processing 
+time
 
 """
 
