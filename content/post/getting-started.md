@@ -5,7 +5,7 @@ date: "2022-07-01T09:37:55+02:00"
 publishDate: "2022-07-01T09:37:55+02:00"
 ---
 
-In this articel, ARIMA algorithm will be introduced and we will talk about how to build a time-series ARIMA model in Python to make real-time forecast for stock market.
+In this article, ARIMA algorithm will be introduced and we will talk about how to build a time-series ARIMA model in Python to make real-time forecast for stock market.
 
 <!--more-->
 <br>
