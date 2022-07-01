@@ -152,8 +152,8 @@ Returns
 
 str
 
-a message to show the next minute open price & the total processing 
-time
+a message to show the next minute open price & the total 
+processing time
 
 """
 
