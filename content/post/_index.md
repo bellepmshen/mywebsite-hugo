@@ -3,4 +3,4 @@ title: POST
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+All about machine learning stuffs...:nerd_face:
