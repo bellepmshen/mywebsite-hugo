@@ -46,6 +46,13 @@ Resulting in an RMSE = $0.88 for the price on Aug. 31.<br>
 
 For detail codes and graphs, please check the GitHub link above :point_up_2:<br>
 
-Want to get the next minute forecast? download my notebook <font color = "334AFF"><a href = "https://github.com/bellepmshen/time_series_FB_stock/blob/main/forecast.ipynb"><u>here</u></a></font> and run it by yourself!
+Want to get the next minute forecast? download my notebook <font color = "334AFF"><a href = "https://github.com/bellepmshen/time_series_FB_stock/blob/main/forecast.ipynb"><u>here</u></a></font> and run it by yourself!<br>
+
+<font><b><u>Real-Time Forecasting</b></u></font><br>
+
+If you want to forecast other companies stock market price in real time, try my notebook 
+<font color = "334AFF"><a href = "https://github.com/bellepmshen/time_series_real_time_forecast"><u>here.</u></a></font><br>
+
+And I have an article which explains how my codes work, you can check my <font color = "334AFF"><a href = "https://bellepmshen.github.io/post/time_series_arima/"><u>post.</u></a></font><br>
 
 <font size = "-3"><i>photo credit: https://www.financialexpress.com/investing-abroad/featured-stories/us-stock-futures-fall-as-big-week-of-earnings-reports-kicks-off/2495305/</i></font>
